@@ -28,6 +28,9 @@ https://rafael-dsvendas.netlify.app/dashboard
 ## Padrão de camadas
 ![Padrão de Camadas](https://github.com/roalbuquerque/projeto-sds3/blob/master/assets/padraoDeCamadas.png)
 
+## Teste de requisição
+![Teste de requisitção](https://github.com/roalbuquerque/projeto-sds3/blob/master/assets/postman.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
@@ -38,6 +41,8 @@ https://rafael-dsvendas.netlify.app/dashboard
 - HTML / CSS / JS / TypeScript
 - ReactJS
 - Apex Charts
+## Ferramentas de Apoio
+- Postman
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
