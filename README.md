@@ -60,8 +60,14 @@ git clone https://github.com/roalbuquerque/projeto-sds3
 # entrar na pasta do projeto back end
 cd backend
 
+# Abrir o projeto no "Spring Tool Suite 4"
+
 # executar o projeto
-./mvnw spring-boot:run
+Botão direito sobre a classe "DsvendasApplication.java" e >Run As>Spring Boot App
+
+# o que acontece depois de executar o projeto backend
+O banco será criado conforme scripts em data.sql
+
 ```
 
 ## Front end web
@@ -76,9 +82,17 @@ cd frontend
 
 # instalar dependências
 yarn install
+ou
+npm install
 
 # executar o projeto
 yarn start
+ou
+npm start
+
+# o que acontece depois de executar o ultimo comando:
+A aplicação será aberta no navegador
+
 ```
 
 # Autor
